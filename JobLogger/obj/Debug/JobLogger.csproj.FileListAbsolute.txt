@@ -1,0 +1,4 @@
+D:\Proyectos\Visual Studio 2010 (Final)\Todos\JobLogger\JobLogger\bin\Debug\JobLogger.dll
+D:\Proyectos\Visual Studio 2010 (Final)\Todos\JobLogger\JobLogger\bin\Debug\JobLogger.pdb
+D:\Proyectos\Visual Studio 2010 (Final)\Todos\JobLogger\JobLogger\obj\Debug\JobLogger.dll
+D:\Proyectos\Visual Studio 2010 (Final)\Todos\JobLogger\JobLogger\obj\Debug\JobLogger.pdb
